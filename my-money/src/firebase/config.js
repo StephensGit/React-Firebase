@@ -4,15 +4,10 @@ import "firebase/auth";
 
 const firebaseConfig = {
   apiKey: "AIzaSyDBOvTBDw1LZTJFlpgPXejZQ7AJJfgDBpk",
-
   authDomain: "mymoney-382cb.firebaseapp.com",
-
   projectId: "mymoney-382cb",
-
   storageBucket: "mymoney-382cb.appspot.com",
-
   messagingSenderId: "153171312164",
-
   appId: "1:153171312164:web:267fad3409fd82fc98e2b1",
 };
 
